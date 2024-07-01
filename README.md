@@ -63,3 +63,6 @@ curl -X DELETE http://localhost:3000/api/products/1
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](./LICENSE) pour plus de détails.
 
+
+![Screenshot 2024-07-01 at 14-27-24 Swagger UI](https://github.com/Anse-dev/quincaillerie-api-restfulltutorial/assets/67246148/fa635842-c189-496a-b0b7-7d1bff468a5e)
+
